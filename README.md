@@ -24,11 +24,6 @@ La base de datos DVD Rental es ampliamente utilizada para demostraciones, prueba
 6. Haz clic en `Aceptar` para iniciar la restauración.
 
 
-## Créditos
-
-- **Versión original**: [DVD Rental Database para PostgreSQL](https://www.postgresql.org/ftp/projects/pgFoundry/dbsamples/).
-- **Conversión realizada por**: [Fernando Dalai Aguilar Sanchez].
-
 ## Licencia
 
 Usa esta base de datos únicamente con fines educativos y de prueba.
